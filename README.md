@@ -1,10 +1,10 @@
 # NODE-MCU
-Basic ( https://www.youtube.com/watch?v=T43sGy1teyQ )<br>
+### Basic ( https://www.youtube.com/watch?v=T43sGy1teyQ )<br>
 Hardware- NODE MCU, LED<br>
 Languages- C, HTML<br>
 Features- Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO<br>
 <br>
-Advanced( https://www.youtube.com/watch?v=3kpdtdSheFk )<br>
+### Advanced( https://www.youtube.com/watch?v=3kpdtdSheFk )<br>
 Hardware used-  NODE MCU, LED, Potentiometer, I2C LCD, IR sensor<br>
 Languages used- HTML, JavaScript, CSS, C.<br>
 Features-<br>
