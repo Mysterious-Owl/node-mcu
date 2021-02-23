@@ -1,26 +1,30 @@
 # NODE-MCU
 ## Basic
 <br>
-Hardware      
-: NODE MCU, LED      
-Languages     
-: C, HTML       
-Features      
-: Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO      
-Video     
-: https://www.youtube.com/watch?v=T43sGy1teyQ       
+
+### Hardware 
+NODE MCU, LED      
+### Languages 
+C, HTML       
+### Features
+Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO      
+### Video
+https://www.youtube.com/watch?v=T43sGy1teyQ       
 <br>
 
 ## Advanced
 
 <br>
-**Hardware used:**  NODE MCU, LED, Potentiometer, I2C LCD, IR sensor<br>
-**Languages used:** HTML, JavaScript, CSS, C.<br>
-**Features-**<br>
-**Web:** XMLHttpResponse, XML<br>
-**NodeMCU:**  I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server<br>
-**Video:** https://www.youtube.com/watch?v=3kpdtdSheFk
 
+### Hardware used
+NODE MCU, LED, Potentiometer, I2C LCD, IR sensor
+### Languages used
+HTML, JavaScript, CSS, C
+### Features
+Web: XMLHttpResponse, XML
+NodeMCU: I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server<br>
+### Video
+https://www.youtube.com/watch?v=3kpdtdSheFk
 
 <br>
 For basics check the [basic folder](https://github.com/Mysterious-Owl/node-mcu/tree/master/Basic) and understand the code, then move to [advanced](https://github.com/Mysterious-Owl/node-mcu/tree/master/Advanced), otherwise it will be difficult to understand it.<br>
