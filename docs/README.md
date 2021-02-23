@@ -11,7 +11,7 @@
 <br>
 **Hardware used:**  NODE MCU, LED, Potentiometer, I2C LCD, IR sensor<br>
 **Languages used:** HTML, JavaScript, CSS, C.<br>
-**Features:**<br>
+**Features-**<br>
 **Web:** XMLHttpResponse, XML<br>
 **NodeMCU:**  I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server<br>
 
