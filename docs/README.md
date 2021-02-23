@@ -20,7 +20,7 @@ NodeMCU: I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, We
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3kpdtdSheFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+## Note
 For basics check the [basic folder](https://github.com/Mysterious-Owl/node-mcu/tree/master/Basic) and understand the code, then move to [advanced](https://github.com/Mysterious-Owl/node-mcu/tree/master/Advanced), otherwise it will be difficult to understand it.<br>
 The webpage is for demonstration only, there is no need to upload that anyhow, the webpage is already included in c code in string format.
 
