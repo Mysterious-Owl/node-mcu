@@ -4,7 +4,12 @@
 <span style="color:#b5e853">**Languages:**</span> C, HTML       
 <span style="color:#b5e853">**Features:**</span> Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO      
 <span style="color:#b5e853">**Video**</span>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T43sGy1teyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="max-width:600px;">
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/T43sGy1teyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></div>
+
 <br>
 
 ## Advanced
