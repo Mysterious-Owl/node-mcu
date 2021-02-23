@@ -1,23 +1,24 @@
 # NODE-MCU
-### Basic<br>
-Hardware- NODE MCU, LED<br>
-Languages- C, HTML<br>
-Features- Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO<br>
+## Basic
+<br>
+**Hardware:** NODE MCU, LED<br>
+**Languages:** C, HTML<br>
+**Features:** Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T43sGy1teyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Advanced
 <br>
-### Advanced<br>
-Hardware used-  NODE MCU, LED, Potentiometer, I2C LCD, IR sensor<br>
-Languages used- HTML, JavaScript, CSS, C.<br>
-Features-<br>
-Web- XMLHttpResponse, XML<br>
-NODE MCU-  I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server<br>
+**Hardware used:**  NODE MCU, LED, Potentiometer, I2C LCD, IR sensor<br>
+**Languages used:** HTML, JavaScript, CSS, C.<br>
+**Features:**<br>
+**Web:** XMLHttpResponse, XML<br>
+**NodeMCU:**  I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3kpdtdSheFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br>
-For basics check the basic folder and understand the code, then move to advanced, otherwise it will be difficult to understand it.<br>
+<br>
+For basics check the [basic folder](https://github.com/Mysterious-Owl/node-mcu/tree/master/Basic) and understand the code, then move to [advanced](https://github.com/Mysterious-Owl/node-mcu/tree/master/Advanced), otherwise it will be difficult to understand it.<br>
 The webpage is for demonstration only, there is no need to upload that anyhow, the webpage is already included in c code in string format.
 
 Relay can be used instead of LEDs to control AC appliances.<br>
