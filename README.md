@@ -1,24 +1,19 @@
 # NODE-MCU
 ## Basic
-### Hardware 
-NODE MCU, LED      
-### Languages 
-C, HTML       
-### Features
-Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO      
-### Video
+**Hardware:** NODE MCU, LED      
+**Languages:** C, HTML       
+**Features:** Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO      
+**Video**
 https://www.youtube.com/watch?v=T43sGy1teyQ       
 
 
 ## Advanced
-### Hardware used
-NODE MCU, LED, Potentiometer, I2C LCD, IR sensor
-### Languages used
-HTML, JavaScript, CSS, C
-### Features
-Web: XMLHttpResponse, XML <br>
-NodeMCU: I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server<br>
-### Video
+**Hardware:** NODE MCU, LED, Potentiometer, I2C LCD, IR sensor       
+**Languages used:** HTML, JavaScript, CSS, C       
+**Features-**       
+**Web:** XMLHttpResponse, XML   <br>
+**NodeMCU:** I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server       
+**Video**
 https://www.youtube.com/watch?v=3kpdtdSheFk
 
 
