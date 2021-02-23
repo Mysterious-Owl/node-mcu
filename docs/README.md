@@ -25,6 +25,5 @@ Relay can be used instead of LEDs to control AC appliances.<br>
 Bigger websites can be uploaded by SPI Flash File system.<br><br>
 
 ## For more details read
-https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html   <br>
-https://nodemcu.readthedocs.io/en/master/ <br>
-
+[https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)   <br>
+[https://nodemcu.readthedocs.io/en/master/](https://nodemcu.readthedocs.io/en/master/)
