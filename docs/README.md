@@ -1,19 +1,19 @@
 # NODE-MCU
 ## Basic
-<span style="color:yellow">**Hardware:**</span> NODE MCU, LED      
-**Languages:** C, HTML       
-**Features:** Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO      
-**Video**
+<span style="color:#b5e853">**Hardware:**</span> NODE MCU, LED      
+<span style="color:#b5e853">**Languages:**</span> C, HTML       
+<span style="color:#b5e853">**Features:**</span> Webserver, HTTP GET/POST request, mDNS, Port forwarding/Virtual server, GPIO      
+<span style="color:#b5e853">**Video**</span>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T43sGy1teyQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ## Advanced
-**Hardware:** NODE MCU, LED, Potentiometer, I2C LCD, IR sensor       
-**Languages used:** HTML, JavaScript, CSS, C       
-**Features-**       
-**Web:** XMLHttpResponse, XML   <br>
-**NodeMCU:** I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server       
-**Video**
+<span style="color:#b5e853">**Hardware:**</span> NODE MCU, LED, Potentiometer, I2C LCD, IR sensor       
+<span style="color:#b5e853">**Languages used:**</span> HTML, JavaScript, CSS, C       
+<span style="color:#b5e853">**Features-**</span>      
+<span style="color:#b5e853">**Web:**</span> XMLHttpResponse, XML   <br>
+<span style="color:#b5e853">**NodeMCU:**</span> I2C, ADC (Analog to digital), Interrupt, GPIO, Serial communication, WebServer, mDNS, Port forwarding/Virtual server       
+<span style="color:#b5e853">**Video**</span>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3kpdtdSheFk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
